@@ -1,5 +1,5 @@
 {
-  "name": "strapi-test-bug",
+  "name": "strapi-test",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -11,10 +11,10 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.15.5",
-    "@strapi/plugin-users-permissions": "4.15.5",
-    "@strapi/plugin-i18n": "4.15.5",
-    "@strapi/plugin-cloud": "4.15.5",
+    "@strapi/strapi": "0.0.0-next.1168c576ca50587b1a4377082ee09d2375410204",
+    "@strapi/plugin-users-permissions": "0.0.0-next.1168c576ca50587b1a4377082ee09d2375410204",
+    "@strapi/plugin-i18n": "0.0.0-next.1168c576ca50587b1a4377082ee09d2375410204",
+    "@strapi/plugin-cloud": "0.0.0-next.1168c576ca50587b1a4377082ee09d2375410204",
     "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -25,7 +25,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "36067e95-25b1-4bcb-bdda-95c2beb63e83"
+    "uuid": "61870841-17d2-4d55-8e55-5b77a8cee9b6"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
