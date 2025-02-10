@@ -2,6 +2,6 @@
   "name": "strapi-test",
   "packageManager": "yarn@4.6.0",
   "workspaces": [
-    "strapi-app"
+    "strapi"
   ]
 }
