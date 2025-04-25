@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
-    "build": "strapi build",
+    "build": "strapi build && echo Sleeping 4min... && sleep 240 && echo Sleep finished",
     "strapi": "strapi",
     "deploy": "strapi deploy"
   },
