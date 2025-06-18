@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('env: ', process.env);
+
 module.exports = {
   /**
    * An asynchronous register function that runs before
